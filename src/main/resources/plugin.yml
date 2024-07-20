@@ -1,0 +1,16 @@
+name: DKBlockParty
+version: '${project.version}'
+main: me.autor.dkblockparty.DKBlockParty
+api-version: '1.21'
+commands:
+  start:
+    description: Paneb blockparty käima.
+    usage: /<command>
+
+  tran:
+    description: Imelik asi (teeb ringe)
+    usage: /<command>
+
+  stop:
+    description: Paneb blockparty loopi kinni
+    usage: /<command>

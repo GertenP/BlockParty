@@ -1,0 +1,9 @@
+# config.yml
+
+coordinates:
+  x: 209
+  z: -112
+
+maailma_nimi: 'flatroom'
+
+bb: true
