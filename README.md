@@ -1,2 +1,4 @@
-# DKBlockParty
-BlockParty plugin DKServerile
+# BlockParty plugin
+Ei jätka seda projekti
+
+
